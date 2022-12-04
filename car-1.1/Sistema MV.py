@@ -158,11 +158,7 @@ while True:
 
 
 
-class Pessosoa:
-    def __int__(self, CPF, nascimento, cildade):
-        self.ciucade = cildade
-        self.naciment = nascimento
-        self.CPF = CPF
+
 
 
 
